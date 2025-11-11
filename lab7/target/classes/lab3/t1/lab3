@@ -1,0 +1,3 @@
+Model класи Shape, Circle, Rectangle, Triangle
+View виведення в консоль
+Controller логіка (обробка масиву, сортування, фільтрація)
