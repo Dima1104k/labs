@@ -1,0 +1,6 @@
+груд. 10, 2025 12:35:27 ДП lab10.Task3Encryption main
+INFO: Програма запущена
+груд. 10, 2025 12:35:31 ДП lab10.Task3Encryption main
+FINE: Користувач вибрав опцію: 0
+груд. 10, 2025 12:35:31 ДП lab10.Task3Encryption main
+INFO: Програма завершує роботу
